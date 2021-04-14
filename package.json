@@ -1,0 +1,22 @@
+{
+  "name": "maximum_occurring_characters",
+  "version": "1.0.0",
+  "description": "returns max occurring chars in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koggenfuss/Maximum-Occurring-Character.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Katharyn Oggenfuss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koggenfuss/Maximum-Occurring-Character/issues"
+  },
+  "homepage": "https://github.com/koggenfuss/Maximum-Occurring-Character#readme"
+}
